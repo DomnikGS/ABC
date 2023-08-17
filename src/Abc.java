@@ -6,6 +6,9 @@ public class Abc {
 
 		System.out.println("abc");
 		System.out.println("def");
+		
+		int a= 10;
+		System.out.println(a);
 	}
 
 }
